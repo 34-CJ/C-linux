@@ -1,0 +1,3 @@
+﻿  main.cpp
+F:\c与linux\编译器项目\HJA词法分析\complier\main.cpp(74,21): warning C4018: “<”: 有符号/无符号不匹配
+  complier.vcxproj -> F:\c与linux\编译器项目\HJA词法分析\Debug\complier.exe
